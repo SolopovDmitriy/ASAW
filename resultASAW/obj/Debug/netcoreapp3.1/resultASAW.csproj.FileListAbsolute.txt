@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.exe
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.deps.json
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.runtimeconfig.json
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.runtimeconfig.dev.json
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.dll
+C:\Users\student\source\repos\ASAW\resultASAW\bin\Debug\netcoreapp3.1\resultASAW.pdb
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.AssemblyInfo.cs
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.dll
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.pdb
+C:\Users\student\source\repos\ASAW\resultASAW\obj\Debug\netcoreapp3.1\resultASAW.genruntimeconfig.cache

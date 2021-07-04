@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.exe
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.deps.json
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.runtimeconfig.json
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.runtimeconfig.dev.json
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.dll
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\bin\Debug\netcoreapp3.1\Concurrentcollectionexample.pdb
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.AssemblyInfo.cs
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.dll
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.pdb
+C:\Users\student\source\repos\ASAW\Concurrentcollectionexample\obj\Debug\netcoreapp3.1\Concurrentcollectionexample.genruntimeconfig.cache
